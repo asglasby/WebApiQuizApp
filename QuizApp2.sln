@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizApp2", "QuizApp2\QuizApp2.csproj", "{0798FCC3-0AFE-4A59-B373-DC0048946B1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizApp2.Data", "QuizApp2.Data\QuizApp2.Data.csproj", "{209E8FCA-D60F-45D6-B71B-23B10E1B18E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizApp2.Data.Models", "QuizApp2.Data.Models\QuizApp2.Data.Models.csproj", "{35C3704B-6130-4183-8A69-EDBFCE784BA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0798FCC3-0AFE-4A59-B373-DC0048946B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0798FCC3-0AFE-4A59-B373-DC0048946B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0798FCC3-0AFE-4A59-B373-DC0048946B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0798FCC3-0AFE-4A59-B373-DC0048946B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{209E8FCA-D60F-45D6-B71B-23B10E1B18E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{209E8FCA-D60F-45D6-B71B-23B10E1B18E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{209E8FCA-D60F-45D6-B71B-23B10E1B18E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{209E8FCA-D60F-45D6-B71B-23B10E1B18E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35C3704B-6130-4183-8A69-EDBFCE784BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C3704B-6130-4183-8A69-EDBFCE784BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C3704B-6130-4183-8A69-EDBFCE784BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C3704B-6130-4183-8A69-EDBFCE784BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

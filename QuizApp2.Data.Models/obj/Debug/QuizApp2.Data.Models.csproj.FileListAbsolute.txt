@@ -1,0 +1,14 @@
+c:\Users\Jason\documents\visual studio 2013\Projects\QuizApp2\QuizApp2.Data.Models\bin\Debug\QuizApp2.Data.Models.dll.config
+c:\Users\Jason\documents\visual studio 2013\Projects\QuizApp2\QuizApp2.Data.Models\bin\Debug\QuizApp2.Data.Models.dll
+c:\Users\Jason\documents\visual studio 2013\Projects\QuizApp2\QuizApp2.Data.Models\bin\Debug\QuizApp2.Data.Models.pdb
+c:\Users\Jason\documents\visual studio 2013\Projects\QuizApp2\QuizApp2.Data.Models\bin\Debug\EntityFramework.dll
+c:\Users\Jason\documents\visual studio 2013\Projects\QuizApp2\QuizApp2.Data.Models\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\Jason\documents\visual studio 2013\Projects\QuizApp2\QuizApp2.Data.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\Users\Jason\documents\visual studio 2013\Projects\QuizApp2\QuizApp2.Data.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\Users\Jason\documents\visual studio 2013\Projects\QuizApp2\QuizApp2.Data.Models\bin\Debug\EntityFramework.xml
+c:\Users\Jason\documents\visual studio 2013\Projects\QuizApp2\QuizApp2.Data.Models\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\Jason\documents\visual studio 2013\Projects\QuizApp2\QuizApp2.Data.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\Users\Jason\documents\visual studio 2013\Projects\QuizApp2\QuizApp2.Data.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\Users\Jason\documents\visual studio 2013\Projects\QuizApp2\QuizApp2.Data.Models\obj\Debug\QuizApp2.Data.Models.csprojResolveAssemblyReference.cache
+c:\Users\Jason\documents\visual studio 2013\Projects\QuizApp2\QuizApp2.Data.Models\obj\Debug\QuizApp2.Data.Models.dll
+c:\Users\Jason\documents\visual studio 2013\Projects\QuizApp2\QuizApp2.Data.Models\obj\Debug\QuizApp2.Data.Models.pdb

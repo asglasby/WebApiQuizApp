@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div id="initialView" class="show">
+        <button onclick="startQuiz()">Start</button>
+    </div>
+    <div id="quizView" class="hide">
+        <h2 id="prompt"></h2>
+        1. <input type="radio" name="answer" value="1" /><span id="a1"></span><br />
+        2. <input type="radio" name="answer" value="2" /><span id="a2"></span><br />
+        3. <input type="radio" name="answer" value="3" /><span id="a3"></span><br />
+        4. <input type="radio" name="answer" value="4" /><span id="a4"></span><br/>
+        <button id="next" onclick="checkAnswer()">Next</button>
+    </div>
+    <script src="Scripts/myJs.js"></script>
+</body>
+</html>
